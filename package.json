@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@ant-design-vue/pro-layout": "^0.2.11-0",
+    "ant-design-vue": "^1.6.1",
+    "ant-design-vue-pro": "^0.3.4",
+    "babel-plugin-import": "^1.13.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
